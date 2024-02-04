@@ -15,8 +15,8 @@ My personal GitHub page will give a more comprehensive summary of my [projects](
 - MS Excel
 
 ### 📧 Connect and Contact Me
-- [LinkedIn](www.linkedin.com/in/stephen-nguyen-69b282176)
-- [Email](stephennguyen@live.com.au)
+- [LinkedIn](https://www.linkedin.com/in/stephen-nguyen-69b282176)
+- [Email](https://stephennguyen@live.com.au)
 
 ---
 ### ❔ Random Facts
