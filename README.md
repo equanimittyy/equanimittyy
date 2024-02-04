@@ -1,5 +1,6 @@
 ## Hi, and welcome to my page! 👋
 ![](https://komarev.com/ghpvc/?username=equanimittyy)
+
 I am a fledgling data analyst, striving towards furthering a strong career in data analytics.
 
 ### 📈 Experiences
