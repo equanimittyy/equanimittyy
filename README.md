@@ -6,7 +6,7 @@ I am a fledgling data analyst, striving towards furthering a strong career in da
 - Visualising data in PowerBI
 - Prior work experience in data analytics and reporting in MS Excel
 
-### 🔨 Projects
+### 📑 Projects
 My personal GitHub page will give a more comprehensive summary of my [projects](https://equanimittyy.github.io/stephennguyens.github.io/) to date.
 
 ### 🧰 Technical Skillset
