@@ -23,7 +23,7 @@ My personal GitHub page will give a more comprehensive summary of my [projects](
 - Education wise, I've completed an Accountancy degree at RMIT
 - I know a bit of Vietnamese due to my heritage, and I'm learning Russian! (I have around 7500+ XP on [Duolingo](https://www.duolingo.com/))
 - I did karate at a young age
-- Current hobbies include playing DnD, the piano, German longsword fencing, photography and swimming!
+- Current hobbies include playing DnD, the piano, German longsword, photography and swimming!
 <!--
 **equanimittyy/equanimittyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
