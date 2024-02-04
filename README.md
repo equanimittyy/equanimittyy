@@ -16,7 +16,7 @@ My personal GitHub page will give a more comprehensive summary of my [projects](
 
 ### 📧 Connect and Contact Me
 - [LinkedIn](https://www.linkedin.com/in/stephen-nguyen-69b282176)
-- [Email](https://stephennguyen@live.com.au)
+- [Email](mailto:stephennguyen@live.com.au)
 
 ---
 ### ❔ Random Facts
