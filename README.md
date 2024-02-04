@@ -1,4 +1,13 @@
-### Hi there 👋
+## Hi, and welcome to my page! 👋
+I am a fledgling data analyst, striving towards furthering a strong career in data analytics. 
+
+### 📈 Experiences
+- Querying data in SQL.
+- Visualising data in PowerBI.
+- Prior work experience in data analytics and reporting in MS Excel.
+
+### 🔨 Projects
+My GitHub page will give a more comprehensive summary of my [projects](https://equanimittyy.github.io/stephennguyens.github.io/).
 
 <!--
 **equanimittyy/equanimittyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
