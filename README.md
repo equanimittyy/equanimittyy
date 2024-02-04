@@ -7,7 +7,7 @@ I am a fledgling data analyst, striving towards furthering a strong career in da
 - Prior work experience in data analytics and reporting in MS Excel
 
 ### 🔨 Projects
-My personal GitHub page will give a more comprehensive summary of my [projects](https://equanimittyy.github.io/stephennguyens.github.io/) to date
+My personal GitHub page will give a more comprehensive summary of my [projects](https://equanimittyy.github.io/stephennguyens.github.io/) to date.
 
 ### 🧰 Technical Skillset
 - MySQL
