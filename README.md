@@ -1,6 +1,8 @@
 ## Hi, and welcome to my page! 👋
 I am a fledgling data analyst, striving towards furthering a strong career in data analytics.
 
+![desk-2325627_1280](https://github.com/equanimittyy/equanimittyy/assets/104692345/0b0325ba-0243-4db0-9e58-169187bd4036)
+
 ### 📈 Experiences
 - Querying data in SQL
 - Visualising data in PowerBI
