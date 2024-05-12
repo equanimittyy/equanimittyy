@@ -22,10 +22,10 @@ My personal GitHub page will give a more comprehensive summary of my [projects](
 
 ---
 ### ❔ Random Facts
-- Education wise, I've completed an Accountancy degree at RMIT
-- I know a bit of Vietnamese due to my heritage, and I'm learning Russian! (I have around 7500+ XP on [Duolingo](https://www.duolingo.com/))
-- I did karate at a young age
-- Current hobbies include playing DnD, the piano, German longsword, photography and swimming!
+- Education wise, I've completed an Accountancy degree at RMIT that I am engaging with alongside data.
+- I know a bit of Vietnamese due to my heritage, and I'm learning Russian! (I have around 7500+ XP on [Duolingo](https://www.duolingo.com/)).
+- I did karate at a young age, and currently fence.
+- Current hobbies include boardgames, DnD, piano, guitar, photography and swimming!
 <!--
 **equanimittyy/equanimittyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
