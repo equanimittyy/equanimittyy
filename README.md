@@ -3,7 +3,7 @@
 ![desk-2325627_1280](https://github.com/equanimittyy/equanimittyy/assets/104692345/b5d92388-2839-4796-99de-a24a1d88315a)
 
 
-### 📈 Experiences
+### 📈 Experience
 - Querying data in SQL
 - Visualising data in PowerBI
 - Prior work experience in financial analytics and reporting in MS Excel
