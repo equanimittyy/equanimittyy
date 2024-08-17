@@ -3,29 +3,27 @@
 ![desk-2325627_1280](https://github.com/equanimittyy/equanimittyy/assets/104692345/b5d92388-2839-4796-99de-a24a1d88315a)
 
 
-### 📈 Experience
-- Querying data in SQL
-- Visualising data in PowerBI
-- Prior work experience in financial analytics and reporting in MS Excel
+### 📈 Professional Experience
+- Transformations, analysis and reporting in MS Excel leveraging Power Query
 
 ### 📑 Projects
 My personal GitHub page will give a more comprehensive summary of my [projects](https://equanimittyy.github.io/stephennguyens.github.io/) to date.
 
 ### 🧰 Technical Skillset
-- MySQL
+- SQL (MySQL)
+- Python
 - PowerBI, DAX
-- MS Excel
+- MS Excel, PowerQuery
 
 ### 📧 Connect and Contact Me
-- [LinkedIn](https://www.linkedin.com/in/stephen-nguyen-69b282176)
 - [Email](mailto:stephennguyen@live.com.au)
 
 ---
 ### ❔ Random Facts
-- Education wise, I've completed an Accountancy degree at RMIT that I am engaging with alongside data.
-- I know a bit of Vietnamese due to my heritage, and I'm learning Russian! (I have around 7500+ XP on [Duolingo](https://www.duolingo.com/)).
-- I did karate at a young age, and currently fence.
-- Current hobbies include boardgames, DnD, piano, guitar, photography and swimming!
+- Education wise, I've completed an Accountancy degree at RMIT that I am engaging with a heavy focus on data. I have found my passion for data through unlikely places.
+- I know Vietnamese due to my heritage, and I'm currenlty learning Russian! (I have around 7500+ XP on [Duolingo](https://www.duolingo.com/)).
+- I did karate at a young age, and currently fence HEMA style!
+- Current hobbies include boardgames, DnD, piano, guitar, photography and swimming.
 <!--
 **equanimittyy/equanimittyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
