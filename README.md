@@ -7,7 +7,7 @@
 - Transformations, analysis and reporting in MS Excel leveraging Power Query
 
 ### 📑 Projects
-My personal GitHub page will give a more comprehensive summary of my [projects](https://equanimittyy.github.io/stephennguyens.github.io/) to date.
+My personal GitHub page will give a list of my [projects](https://equanimittyy.github.io/stephennguyens.github.io/) to date.
 
 ### 🧰 Technical Skillset
 - SQL (MySQL)
